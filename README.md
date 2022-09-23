@@ -1,17 +1,15 @@
 
 # A S T R O - Backdoor
 
-This is a Minecraft Backdoor.
+Sussy baka backdoor that injects into other files.
 
 
 ## Devs.
+- Head Developer [AbnormaL_ [JS]](https://github.com/abnormaldoescode)
+- Tester [TR4SHxd](https://github.com/TR4SHxd)
+## This is early stage of the project.
 
-- [Pax.](https://www.youtube.com/c/PaxGriefs)
-- [AbnormaL_ [JS]](https://www.youtube.com/c/AbnormaLCSGO)
-- [TR4SHxd](https://github.com/TR4SHxd)
-## This is Private.
-
-So no sharing or anything lol :D
+So do not expect everything working like charm.
 
 
 ## Backdoor Prefix.
