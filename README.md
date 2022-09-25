@@ -6,7 +6,7 @@ Sussy baka backdoor that injects into other files.
 
 ## Devs.
 - Project Founder & Head Dev [AbnormaL_ [JS]](https://github.com/abnormaldoescode)
-- Developer [Pax.]](https://github.com/LetMeKillMyself)
+- Developer [Pax.](https://github.com/LetMeKillMyself)
 ## This is early stage of the project.
 
 So do not expect everything working like charm.
